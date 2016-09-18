@@ -1,5 +1,5 @@
 # MSP-DUINO
-Arduino type development board based on MSP430 microcontrollers.
+This is a simple arduino type board based on MSP430F2370 microcontrollers. This is first revision and not tested yet. After receiving PCBs and assembling parts, i will share my experiences with public. Any suggestion is welcome.
 
 TOP VIEW
 ![TOP-VIEW](https://github.com/aytacdilek/MSP-DUINO/blob/master/VISUALS/TOP-VIEW.png?raw=true)
@@ -14,3 +14,4 @@ BOTTOM VIEW
 ![TOP-VIEW](https://github.com/aytacdilek/MSP-DUINO/blob/master/VISUALS/BOTTOM-VIEW.png?raw=true)
 
 SCHEMATICS
+Cooming Soon!
