@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\PROJECTS\ARDUINO_MSP430F2370\ARDUINO_MSP430F2370.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=arduino_msp430f2370-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=arduino_msp430f2370-slotholes.txt|DrillLayers=gtl,gbl

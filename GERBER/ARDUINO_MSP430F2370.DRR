@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ARDUINO_MSP430F2370.PcbDoc   9/4/2016  10:51:44 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ARDUINO_MSP430F2370-RoundHoles.TXT
+ASCII SlotHoles File : ARDUINO_MSP430F2370-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             25        PTH        1.92inch (48.77mm)
+T2      12mil (0.305mm)                                           Round             60        PTH        14.85inch (377.17mm)
+T3      35mil (0.9mm)                                             Round             39        PTH        6.23inch (158.13mm)
+T4      39mil (1mm)                                               Round             30        PTH        5.55inch (140.86mm)
+T5      39mil (1mm)                                               Slot              3         PTH        1.16inch (29.52mm)
+T6      125mil (3.175mm)                                          Round             1         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              158
+
+Total Processing Time (hh:mm:ss) : 00:00:00
