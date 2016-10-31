@@ -5,13 +5,16 @@ TOP VIEW
 ![TOP-VIEW](https://github.com/aytacdilek/MSP-DUINO/blob/master/VISUALS/TOP-VIEW.png?raw=true)
 
 SIDE VIEW
-![TOP-VIEW](https://github.com/aytacdilek/MSP-DUINO/blob/master/VISUALS/SIDE-VIEW.png?raw=true)
+![SIDE-VIEW](https://github.com/aytacdilek/MSP-DUINO/blob/master/VISUALS/SIDE-VIEW.png?raw=true)
 
 FRONT VIEW
-![TOP-VIEW](https://github.com/aytacdilek/MSP-DUINO/blob/master/VISUALS/FRONT-VIEW.png?raw=true)
+![FRONT-VIEW](https://github.com/aytacdilek/MSP-DUINO/blob/master/VISUALS/FRONT-VIEW.png?raw=true)
 
 BOTTOM VIEW
-![TOP-VIEW](https://github.com/aytacdilek/MSP-DUINO/blob/master/VISUALS/BOTTOM-VIEW.png?raw=true)
+![BOTTOM-VIEW](https://github.com/aytacdilek/MSP-DUINO/blob/master/VISUALS/BOTTOM-VIEW.png?raw=true)
+
+PCB
+![PCB-VIEW](https://github.com/aytacdilek/MSP-DUINO/blob/master/VISUALS/PCBs.jpg?raw=true)
 
 SCHEMATICS
 Cooming Soon!
